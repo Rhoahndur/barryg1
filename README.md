@@ -164,3 +164,7 @@ Please refer to individual component licenses:
 - MuJoCo: Apache 2.0
 - Cyclone DDS: Eclipse Public License 2.0
 - XR Teleoperation: Check repository license
+
+## License
+
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
